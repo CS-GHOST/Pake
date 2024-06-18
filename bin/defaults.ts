@@ -4,7 +4,7 @@ export const DEFAULT_PAKE_OPTIONS: PakeCliOptions = {
   icon: '',
   height: 780,
   width: 1200,
-  fullscreen: false,
+  fullscreen: true,
   resizable: true,
   hideTitleBar: false,
   alwaysOnTop: false,
